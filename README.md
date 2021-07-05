@@ -10,17 +10,16 @@
 
 [![YourBatman's Github Stats](https://github-readme-stats.vercel.app/api?username=yourbatman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/yourbatman)
 
+### 我的专栏
+
+#### - [《点拨-Java EE》](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0MTUwOTgyOQ==&action=getalbum&album_id=1940957171895058444#wechat_redirect) 推荐指数：⭐⭐⭐⭐
+> 本专栏打造最全面的“Java EE”知识库，帮你搜集、整理、提炼、升华，让更多人受益也少走弯路。从Java EE到Jakarta EE，历经三十载。从常用的Servlet、WebSocket、JSP到几乎已销声匿迹的JSTL、JSF、Security。
 
 ### 联系我
 - Contact me：[YourBatman](https://yourbatman.cn)
 - 公众号：[BAT的乌托邦](https://yourbatman.cn/image/BAT-utopia-12cm.png)
 - 我的站点：[https://yourbatman.cn](https://yourbatman.cn)
 - 我的网盘：[https://wangpan.yourbatman.cn](https://wangpan.yourbatman.cn)
-
-### 我的专栏
-
-#### - [《点拨-Java EE》](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0MTUwOTgyOQ==&action=getalbum&album_id=1940957171895058444#wechat_redirect) 推荐指数：⭐⭐⭐⭐
-> 本专栏打造最全面的“Java EE”知识库，帮你搜集、整理、提炼、升华，让更多人受益也少走弯路。从Java EE到Jakarta EE，历经三十载。从常用的Servlet、WebSocket、JSP到几乎已销声匿迹的JSTL、JSF、Security。
 
 ### 期待与你相遇
 喜欢交朋友，喜欢讨论技术，更喜欢向你学习。<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">期待在程序的世界里我们能相遇！

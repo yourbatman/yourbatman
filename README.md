@@ -12,7 +12,7 @@
 
 ### 我的专栏
 
-#### - [《点拨-Java EE》](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0MTUwOTgyOQ==&action=getalbum&album_id=1940957171895058444#wechat_redirect) 推荐指数：⭐⭐⭐⭐
+#### - [《点拨-Java EE》](https://yourbatman.cn/categories/%E7%82%B9%E6%8B%A8-Java-EE) 推荐指数：⭐⭐⭐⭐
 > 本专栏打造最全面的“Java EE”知识库，帮你搜集、整理、提炼、升华，让更多人受益也少走弯路。从Java EE到Jakarta EE，历经三十载。从常用的Servlet、WebSocket、JSP到几乎已销声匿迹的JSTL、JSF、Security。
 
 ---

@@ -12,7 +12,7 @@
 
 ### 我的专栏
 
-#### - [《BATutopia-Java EE》](https://yourbatman.cn/categories/BATutopia-Java-EE) 推荐指数：⭐⭐⭐⭐
+#### - [《BATutopia-Java EE》](https://github.com/yourbatman/BATutopia-java-ee) 推荐指数：⭐⭐⭐⭐
 > Java EE必备技术，也作为茶余饭后的谈资，每个Java程序员都必须有所了解。本专栏打造最全面的“Java EE”知识库，帮你搜集、整理、提炼、升华，让更多人受益也少走弯路。从Java EE到Jakarta EE，历经三十载。从常用的Servlet、WebSocket、JSP到几乎已销声匿迹的JSTL、JSF、Security。
 
 ---

@@ -5,10 +5,12 @@
 
 [![YourBatman's Github Stats](https://github-readme-stats.vercel.app/api?username=yourbatman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/yourbatman)
   
-### 我的专栏
+### 我的专栏推荐
 
 #### - [《【方向盘】-Java EE》](https://github.com/yourbatman/FXP-java-ee) 推荐指数：⭐⭐⭐⭐
 > Java EE必备技术，也作为茶余饭后的谈资，每个Java程序员都必须有所了解。本专栏打造最全面的“Java EE”知识库，帮你搜集、整理、提炼、升华，让更多人受益也少走弯路。从Java EE到Jakarta EE，历经三十载。从常用的Servlet、WebSocket、JSP到几乎已销声匿迹的JSTL、JSF、Security。
+#### - [《原创专栏大本营》](https://github.com/yourbatman/tech-column-learning) 推荐指数：⭐⭐⭐⭐⭐
+> 这里涵盖有方向盘(YourBatman、方哥)所有的原创专栏，是个合集。万丈高楼平地起，打实基础方可走得更快、更远。你可以收藏/fork/star来获取最新内容
 
 ---
 

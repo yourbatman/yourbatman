@@ -34,6 +34,11 @@
 
 ![Java方向盘-搜一搜](https://cdn.jsdelivr.net/gh/yourbatman/cdn/blog/image/yourbatman/wechat-public-soso-qrcode.png)
 
+### 实用工具
+- 【女娲Knife-Initializr工程】访问地址：[http://152.136.106.14:8761](http://152.136.106.14:8761) 
+- 【程序员专用网盘】公益上线啦，注册送1G超小容量，帮你实践做**减法**：[https://wangpan.yourbatman.cn](https://mp.weixin.qq.com/s/e_ffqJd7edyCM8celr-Uww) 
+- 【Java开发软件包(Mac)】：[https://wangpan.yourbatman.cn/s/rEH0](https://wangpan.yourbatman.cn/s/rEH0) 提取码：javakit
+
 ### 期待与你相遇
 喜欢交朋友，喜欢讨论技术，更喜欢向你学习。<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">期待在程序的世界里我们能相遇！
 
